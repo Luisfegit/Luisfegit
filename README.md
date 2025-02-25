@@ -20,9 +20,8 @@ Soy un chef ejecutivo apasionado por la gastronomía y un analista de datos en t
 Mi objetivo es fusionar mis conocimientos en gastronomía y análisis de datos para optimizar procesos y tomar decisiones estratégicas informadas en el sector tecnológico. Estoy en búsqueda de oportunidades que me permitan aplicar mis habilidades analíticas y de gestión para contribuir al éxito de proyectos innovadores.
 
 ## 🌐 Conéctate Conmigo
-- LinkedIn: [Luis Felipe Garcia Salcedo](https://www.linkedin.com/in/tu-perfil)
-- Correo Electrónico: [tuemail@example.com](mailto:tuemail@example.com)
+- LinkedIn: [Luis Felipe Garcia Salcedo](www.linkedin.com/in/luis-felipe-garcia-salcedo-518450219)
+- Correo Electrónico: [Luisfe.gar@outlook.com]
 
----
 
 ¡Gracias por visitar mi perfil! 😊
